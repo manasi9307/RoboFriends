@@ -22,3 +22,4 @@ export const robot = [
     }
 
 ]
+export default robot;
